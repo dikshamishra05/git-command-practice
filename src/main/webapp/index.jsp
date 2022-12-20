@@ -6,7 +6,9 @@
 	<h2 style="color: orange; font-size: 70px;" align="center">  checking for automation</h2>
 	
 	<h2 style="color: pink; font-size: 70px;" align="center">  trying again for second time</h2>
+	<h2 style="color: orange; font-size: 70px;" align="center">  checking for poll scm</h2>
 	
 	<h2 style="color: yellow; font-size: 70px;" align="center">  checking for authorization</h2>
 </body>
+	
 </html>
